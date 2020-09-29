@@ -1,0 +1,95 @@
+{
+  "products": [
+    {
+      "id": "MT-03",
+      "name": "Oolong Milk Tea",
+      "price": 5.1,
+      "toppings": "Pearl, milk foam"
+    },
+    {
+      "id": "MT-04",
+      "name": "Blueberry Milk Tea",
+      "price": 7.1,
+      "toppings": "Aloe, milk foam"
+    },
+    {
+      "id": "MT-05",
+      "name": "Mango Milk Tea",
+      "price": 3.1,
+      "toppings": "Pudding, Black pearl"
+    }, 
+    {
+      "id": "MT-06",
+      "name": "Caramel milk tea",
+      "price": 2.1,
+      "toppings": "Aloe, Pearl"
+    }, 
+    {
+      "id": "MT-07",
+      "name": "Red bean milk tea",
+      "price": 9.1,
+      "toppings": "Red bean, Pudding"
+    }, 
+    {
+      "id": "MT-08",
+      "name": "Golden Bubble",
+      "price": 7.1,
+      "toppings": "Red bean, Milk foam"
+    }, 
+    {
+      "id": "MT-09",
+      "name": "Mint milk tea",
+      "price": 5.7,
+      "toppings": "Pudding, scream"
+    }, 
+    {
+      "id": "MT-10",
+      "name": "Blueberry milk tea",
+      "price": 5.6,
+      "toppings": "Aloe, Red bean"
+    }, 
+    {
+      "id": "MT-11",
+      "name": "Chocolate milk tea",
+      "price": 5.2,
+      "toppings": "Pudding, Pearl"
+    },{
+      "id": "MT-01",
+      "name": "Royal Milk Tea",
+      "price": 4.8,
+      "toppings": "Milk foam,white pearl"
+    },
+    {
+      "id": "MT-02",
+      "name": "Green Milk Tea",
+      "price": 4.6,
+      "toppings": "Pearl, scream"
+    }
+  ],
+  "typeToppings": [
+    {
+      "id": "T-01",
+      "name": "milk foam"
+    },
+    {
+      "id": "T-02",
+      "name": "pearl"
+    },
+    {
+      "id": "T-03",
+      "name": "aloe"
+    },
+    {
+      "id": "T-04",
+      "name": "pudding"
+    },
+    {
+      "id": "T-05",
+      "name": "red bean"
+    },
+    {
+      "id": "T-06",
+      "name": "scream"
+    }
+  ]
+}
